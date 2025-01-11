@@ -9,7 +9,7 @@ Pleasure! I'm Leunam and I studying ADM tech at [Inteli](https://www.inteli.edu.
 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) a gamified financial education startup
 👤 I'm a proactive and creative. Dedicated to continuous learning and effective problem-solving.
 💻 I worked as a digital marketing strategist, specializing in content creation.
-🏆 winner: VC CHALLENGE EM 2022(https://www.fundovale.org/espaco-do-conhecimento/ultimas-noticias/resultado-vc-challenge-2022/) & [Copa Colegial de Empreendedorismo 2023](https://www.instagram.com/p/CzwzOpyS7x0/?img_index=1)
+🏆 winner: [VC CHALLENGE EM 2022](https://www.fundovale.org/espaco-do-conhecimento/ultimas-noticias/resultado-vc-challenge-2022/) & [Copa Colegial de Empreendedorismo 2023](https://www.instagram.com/p/CzwzOpyS7x0/?img_index=1)
 
 ## Curiosity:
 - I have been editing videos for over 3 years.
