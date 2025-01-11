@@ -14,8 +14,8 @@ I seek to improve my knowledge in management and technology, to be able to face 
 
 ## Curiosity:
 - I have been editing videos for over 3 years;
-- I like reading HQ's in my free time;
+- I sell candy and women's jewelry in high school and on the street;
 - A phrase I like is:  **_"As is a tale, so is life: not how long it is, but how good it is, is what matters"_ - Seneca**.
 
 ## Buddy:
-My buddy is [Yuri Toledo](https://github.com/YuriFAToledo)
+My buddy is [Yuri Toledo](https://github.com/YuriFAToledo), he is helping me through this process.
