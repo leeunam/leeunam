@@ -2,7 +2,7 @@
   <img src="https://github.com/leeunam/leeunam/raw/main/assets/header-github.gif" alt="Hello, I'm Leunam">
 </p>
 
-<h3>## About me:</h3>
+## <h3> About me:</h3>
 - 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/): Startup focused on finance education through technology and gamification.
 
 - 📚 I am a proactive and creative. Dedicated to continuous learning and effective problem-solving.
