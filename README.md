@@ -17,4 +17,4 @@ I seek to improve my knowledge in management and technology, to be able to face 
 - I like reading HQ's in my free time.
 
 ## Buddy:
-My buddy is Yuri Toledo ...
+My buddy is [Yuri Toledo](https://github.com/YuriFAToledo)
