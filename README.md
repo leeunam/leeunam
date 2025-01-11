@@ -1,5 +1,4 @@
-<p align="center">
-  height: 100%;
+<p align="center" height: 100%;>
   <img src="https://github.com/leeunam/leeunam/raw/main/assets/header-github.gif" alt="Hello, I'm Leunam">
 </p>
 
