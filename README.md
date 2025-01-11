@@ -3,13 +3,13 @@
 </p>
 
 ## About me:
-Pleasure! I'm Leunam and I studying ADM tech at [Inteli] (https://www.inteli.edu.br/) (Institute of Technology and Leadership). I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
+Pleasure! I'm Leunam and I studying ADM tech at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
 
 ## Experience:
 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) a gamified financial education startup
 👤 I'm a proactive and creative. Dedicated to continuous learning and effective problem-solving.
 💻 I worked as a digital marketing strategist, specializing in content creation.
-🏆 winner: (VC CHALLENGE EM 2022) [https://www.fundovale.org/espaco-do-conhecimento/ultimas-noticias/resultado-vc-challenge-2022/] & (Copa Colegial de Empreendedorismo 2023) [https://www.instagram.com/p/CzwzOpyS7x0/?img_index=1]
+🏆 winner: VC CHALLENGE EM 2022(https://www.fundovale.org/espaco-do-conhecimento/ultimas-noticias/resultado-vc-challenge-2022/) & [Copa Colegial de Empreendedorismo 2023](https://www.instagram.com/p/CzwzOpyS7x0/?img_index=1)
 
 ## Curiosity:
 - I have been editing videos for over 3 years.
