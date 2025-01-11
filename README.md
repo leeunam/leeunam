@@ -19,5 +19,5 @@ I seek to improve my knowledge in management and technology, to be able to face 
 ## Buddy:
 My buddy is [Yuri Toledo](https://github.com/YuriFAToledo)
 
-<h3>A sentence?</h3>
+## A sentence?
 _“As is a tale, so is life: not how long it is, but how good it is, is what matters.”_ <br> ~ Seneca
