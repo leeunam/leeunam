@@ -3,7 +3,8 @@
 </p>
 
 ## About me:
-Pleasure! I'm Leunam and I studying ADM tech at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
+Pleasure!👋 I'm Leunam and I studying ADM tech at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). <br>
+I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
 
 ## Experience:
 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) (a gamified financial education startup). <br>
