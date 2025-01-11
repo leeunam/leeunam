@@ -6,8 +6,6 @@
 Pleasure!👋 I'm Leunam and I studying Adm Tech at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). <br>
 I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
 
-_“As is a tale, so is life: not how long it is, but how good it is, is what matters.”_ <br> ~ Seneca
-
 ## Experience:
 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) (a gamified financial education startup). <br>
 👤 I am a proactive and creative person - dedicated to effective problem solving <br>
@@ -17,6 +15,7 @@ _“As is a tale, so is life: not how long it is, but how good it is, is what ma
 ## Curiosity:
 - I have been editing videos for over 3 years.
 - I like reading HQ's in my free time.
+- A phrase I like is: _“As is a tale, so is life: not how long it is, but how good it is, is what matters.”_ <br> ~ Seneca
 
 ## Buddy:
 My buddy is [Yuri Toledo](https://github.com/YuriFAToledo)
