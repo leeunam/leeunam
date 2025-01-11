@@ -4,7 +4,7 @@
 
 ## About me:
 
-- 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/): Startup focused on finance education through technology and gamification.
+- 🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) (startup focused on finance education through technology and gamification).
 - 📚 I am a proactive and creative. Dedicated to continuous learning and effective problem-solving.
 - ✏️ I'm looking to learn **Programming and AI.**
 - 💻I worked as a digital marketing strategist, specializing in content creation.
