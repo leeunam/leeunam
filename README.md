@@ -1,21 +1,79 @@
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Leunam+%F0%9F%91%8B;Developer+and+Tech+Enthusiast!" alt="Typing SVG" />
+</h2>
+
+**_"As is a tale, so is life: not how long it is, but how good it is, is what matters"_ - Seneca**.
+
 <p align="center">
-  <img src="https://github.com/leeunam/leeunam/raw/main/assets/header-github.gif" alt="Hello, I'm Leunam">
+  🛠️ Self-taught, curious, always learning <br>
+  🎯 Currently focused on Web3, Data Science and impactful products
 </p>
 
-## About me:
-Pleasure!👋 I'm Leunam and I studying Adm Tech at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). <br>
-I seek to improve my knowledge in management and technology, to be able to face new challenges and evolve personally and professionally. In addition to contributing to projects/companies that I can share and learn from.
+---
 
-## Experience:
-🪙 I co-founded [Cashy Finance](https://www.instagram.com/cashy.finance/) (a gamified financial education startup); <br>
-👤 I am a proactive and creative person - dedicated to effective problem solving; <br>
-💻 I worked as a digital marketing strategist, specializing in content creation; <br>
-🏆 winner: [VC CHALLENGE EM 2022](https://www.fundovale.org/espaco-do-conhecimento/ultimas-noticias/resultado-vc-challenge-2022/) & [Copa Colegial de Empreendedorismo 2023](https://www.instagram.com/p/CzwzOpyS7x0/?img_index=1).
+### 🚀 Tech & Tools I Use
 
-## Curiosity:
-- I have been editing videos for over 3 years;
-- I sell candy and women's jewelry in high school and on the street;
-- A phrase I like is:  **_"As is a tale, so is life: not how long it is, but how good it is, is what matters"_ - Seneca**.
+<table>
+  <tr>
+    <td><strong>Frontend:</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="40"/></td>
+  </tr>
+  <tr>
+    <td><strong>Backend:</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,python,express,rust,supabase" height="40"/></td>
+  </tr>
+  <tr>
+    <td><strong>Database:</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" height="40"/></td>
+  </tr>
+  <tr>
+    <td><strong>Tools:</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,notion" height="40"/></td>
+  </tr>
+</table>
 
-## Buddy:
-My buddy is [Yuri Toledo](https://github.com/YuriFAToledo), he is helping me through this process.
+---
+
+### 📌 Featured Projects
+
+- 🔥 [EdCation3 – Gamified Web3 Learning Platform](https://github.com/leunamdev/EdCation3)  
+  > Hackathon Winner @ Modular Carnival · Learn Web3 with quests, NFTs, and a talent hub
+
+- 🦁 [Cashy Finance](https://www.instagram.com/cashy.finance/)  
+  > Co-founded Cashy Finance (a gamified financial education startup);
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leunamdev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leunamdev&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leunam/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:contato.leunam@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+```python
+class Leunam:
+    def __init__(self):
+        self.name = "Leunam"
+        self.stack = ["Web3", "Data", "Startups"]
+        self.mission = "Make technology more accessible and fun"
+    
+    def __str__(self):
+        return f"{self.name}, passionate about learning!"
