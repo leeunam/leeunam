@@ -10,17 +10,6 @@
     
 ---
 
-### 👨‍💻 Tech & Tools I Use
-
-<table>
-  <tr>
-    <td><strong>Frontend:</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js" height="40"/></td>
-  </tr>
-</table>
-
----
-
 ### 📌 Featured Projects
 
 - 🔥 [EdCation3 – Gamified Web3 Learning Platform](https://github.com/Inteli-Club5/EdCation)  
@@ -40,4 +29,4 @@
 
 ### 🧠 About Me
 
-Pleasure to meet you! 👋 I'm **Leunam**, currently studying **Adm Tech** at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). I’m passionate about technology and business, constantly improving my knowledge to tackle new challenges and grow both personally and professionally.  
+Pleasure to meet you! 👋 I'm **Leunam**, currently studying **COmputer Science** at [Inteli](https://www.inteli.edu.br/) (Institute of Technology and Leadership). I’m passionate about technology and business, constantly improving my knowledge to tackle new challenges and grow both personally and professionally.  
